@@ -1,7 +1,7 @@
 trigger: none
 
 pool:
-  vmimage: 'windows-latest'
+  name: 'agent_pools1'
 
 stages:
  - stage: Build
